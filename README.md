@@ -11,7 +11,7 @@
 <br>
 
 - 🔭 Atualmente não estou trabalhando
-- 🌱 Atualmente estou aprendendo Node.JS
+- 🌱 Atualmente estou aprendendo Java
 - 🌐 Apaixonado por desenvolvimento web
 - 💡 Gosto de ser desafiado
 

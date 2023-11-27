@@ -14,6 +14,7 @@
 - 🌱 Atualmente estou aprendendo Java
 - 🌐 Apaixonado por desenvolvimento web
 - 💡 Gosto de ser desafiado
+- 🧠 Linguagem dominante: Javascript
 
 <div>
    <a href="https://github.com/mario-leandro">

@@ -1,6 +1,5 @@
 ### Olá! eu sou o Mario Leandro, sou Programador FullStack👋
 ## 
-
 <div>
   <a href="https://www.linkedin.com/in/dev-mariosilva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/mario.leandro085/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -8,7 +7,11 @@
   <a href="mailto:marioleandro2004@gmail.com"><img alt="Meu Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
-<br>
+<p>Comecei a programar no meio de 2022 e desde então sou apaixonado por programação. Minha primeira linguagem foi python, pois me falaram que era uma ótima opção, até que conheci javascript, fiquei muito animado quando vi, pois eu gosto muito de design e desenvolvimento front-end, mas para que eu pudesse aprender javascript, teria que começar com html e css para depois ir para o javascript.</p>
+
+<p>No começo foi bem facíl aprender html e css, mas quando cheguei em javascript, vi que tinha muitas diferenças entre javascript e python, mas com muito esforço estou tentando dominar a cada dia mais javascript.</p>
+
+<p>Hoje, tenho conhecimento em full-stack, mas minha zona de conforto é o front-end, pois como ja falei, eu amo design e criar interfaces gráficas. Estou estudando e me esforçando muito para trabalhar como desenvolvedor mobile futuramente, mas estou procurando algo como desenvolvedor full-stack.</p>
 
 - 🔭 Atualmente não estou trabalhando
 - 🌱 Atualmente estou aprendendo React com Next.JS

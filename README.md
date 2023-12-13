@@ -11,9 +11,9 @@
 <br>
 
 - 🔭 Atualmente não estou trabalhando
-- 🌱 Atualmente estou aprendendo Java
-- 🌐 Apaixonado por desenvolvimento web
-- 💡 Gosto de ser desafiado
+- 🌱 Atualmente estou aprendendo React com Next.JS
+- 🌐 Apaixonado por desenvolvimento frontend e interfaces gráficas
+- 💡 Gosto de resolver problemas e desafios
 - 🧠 Linguagem dominante: Javascript
 
 <div>

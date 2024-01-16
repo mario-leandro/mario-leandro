@@ -18,7 +18,7 @@
 - ⌨️ Linguagens Dominante: Javascript
 - 🌐 Apaixonado por desenvolvimento frontend e interfaces gráficas
 - 💡 Gosto de resolver problemas e desafios
-- 🧠 Linguagem dominante: Javascript
+- 🧠 "Faça como um programador. Quando tudo está errado e confuso, apague tudo e recomece do zero."
 
 <div>
    <a href="https://github.com/mario-leandro">

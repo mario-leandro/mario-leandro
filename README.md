@@ -14,7 +14,8 @@
 <p>Hoje, tenho conhecimento em full-stack, mas minha zona de conforto é o front-end, pois como ja falei, eu amo design e criar interfaces gráficas. Estou estudando e me esforçando muito para trabalhar como desenvolvedor mobile futuramente, mas estou procurando algo como desenvolvedor full-stack.</p>
 
 - 🔭 Atualmente não estou trabalhando
-- 🌱 Atualmente estou aprendendo React com Next.JS
+- 🌱 Atualmente estudando na Descomplica Faculdade Digital
+- ⌨️ Linguagens Dominante: Javascript
 - 🌐 Apaixonado por desenvolvimento frontend e interfaces gráficas
 - 💡 Gosto de resolver problemas e desafios
 - 🧠 Linguagem dominante: Javascript

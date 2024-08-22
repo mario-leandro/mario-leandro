@@ -1,7 +1,7 @@
 ### Olá! eu sou o Mario Leandro, sou Programador FullStack👋
 ## 
 <div>
-  <a href="https://www.linkedin.com/in/dev-mariosilva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dev-marioleandro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/mario.leandro085/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://mario-leandro.vercel.app/"><img alt="Meu Portfólio" src="https://img.shields.io/badge/Meu Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="mailto:marioleandro2004@gmail.com"><img alt="Meu Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>

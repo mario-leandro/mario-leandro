@@ -9,14 +9,12 @@
 
 <p>Comecei a programar no meio de 2022 e desde então sou apaixonado por programação. Minha primeira linguagem foi python, pois me falaram que era uma ótima opção, até que conheci javascript, fiquei muito animado quando vi, pois eu gosto muito de design e desenvolvimento front-end, mas para que eu pudesse aprender javascript, teria que começar com html e css para depois ir para o javascript.</p>
 
-<p>No começo foi bem facíl aprender html e css, mas quando cheguei em javascript, vi que tinha muitas diferenças entre javascript e python, mas com muito esforço estou tentando dominar a cada dia mais javascript.</p>
-
 <p>Hoje, tenho conhecimento em full-stack, mas minha zona de conforto é o front-end, pois como ja falei, eu amo design e criar interfaces gráficas. Estou estudando e me esforçando muito para trabalhar como desenvolvedor mobile futuramente, mas estou procurando algo como desenvolvedor full-stack.</p>
 
 - 🔭 Atualmente não estou trabalhando
-- 🌱 Atualmente estudando na Descomplica Faculdade Digital
-- ⌨️ Linguagens Dominante: Javascript
-- 🌐 Apaixonado por desenvolvimento frontend e interfaces gráficas
+- 🌱 Atualmente estudando Análise e Desenvolvimento de Sistemas na Descomplica Faculdade Digital
+- ⌨️ Linguagens Dominante: Typescript
+- 🌐 Apaixonado por desenvolvimento e interfaces gráficas
 - 💡 Gosto de resolver problemas e desafios
 - 🧠 "Faça como um programador. Quando tudo está errado e confuso, apague tudo e recomece do zero."
 

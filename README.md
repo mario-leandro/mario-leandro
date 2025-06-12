@@ -11,7 +11,7 @@
 
 <p>Hoje, tenho conhecimento em full-stack, mas minha zona de conforto é o front-end, pois como ja falei, eu amo design e criar interfaces gráficas. Estou estudando e me esforçando muito para trabalhar como desenvolvedor mobile futuramente, mas estou procurando algo como desenvolvedor full-stack.</p>
 
-- 🔭 Atualmente não estou trabalhando
+- 🔭 Atualmente estou estagiando como Analista de Suporte de Sistemas
 - 🌱 Atualmente estudando Análise e Desenvolvimento de Sistemas na Descomplica Faculdade Digital
 - ⌨️ Linguagens Dominante: Typescript
 - 🌐 Apaixonado por desenvolvimento e interfaces gráficas

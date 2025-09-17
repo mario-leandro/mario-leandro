@@ -19,8 +19,8 @@
 - 🧠 "Faça como um programador. Quando tudo está errado e confuso, apague tudo e recomece do zero."
 
 <div>
-   <a href="https://github.com/mario-leandro">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mario-leandro&layout=compact&langs_count=6&theme=radical"/>
+<!--    <a href="https://github.com/mario-leandro">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mario-leandro&layout=compact&langs_count=6&theme=radical"/> -->
 </div>
 
 ## 

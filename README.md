@@ -18,10 +18,12 @@
 - 💡 Gosto de resolver problemas e desafios
 - 🧠 "Faça como um programador. Quando tudo está errado e confuso, apague tudo e recomece do zero."
 
-<div>
+<!-- <div>
    <a href="https://github.com/mario-leandro">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mario-leandro&layout=compact&langs_count=6&theme=radical"/>
-</div>
+</div> -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mario-leandro)](https://github.com/mario-leandro/github-readme-stats)
 
 ## 
 
